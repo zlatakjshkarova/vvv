@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+.wrapper {
+    min-width: 1400px;
+}
+
+
+.desktop {
+    background-color: #ffff;
+    height: 100vh;
+}
+
+.container {
+    max-width: 1507px;
+    margin: 0 auto;
+}
+
+.content_desktop {
+    margin: 23px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.container_desktop {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.nav_desktop {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.list_desktop {
+    list-style: none;
+    text-decoration: none;
+    column-gap: 19px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin: 13px;
+}
+
+.wrap-img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    column-gap: 23px;
+
+}
+
+.h1 {
+    font-size: 26px;
+    margin: 5px;
+}
+
+.p {
+    margin: 0;
+}
+
+.item {
+    display: block;
+}
+
+.frame {}
+
+.li_desktop {
+    font-size: 24;
+
+}
+
+.Garden {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 29px;
+}
+
+.h1 {
+    font-size: 34px;
+}
+
+.p {
+    font-size: 23px;
+}
+
+.text_garden {
+    display: block;
+    justify-content: flex-start;
+
+}
+
+.wrap_garden {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 4PX, 13px, 4px 23PX;
+
+}
+
+.btn {
+    background-color: rgb(58, 107, 58);
+    width: 40%;
+    height: 80px;
+}
+
+.btnR {
+    width: 50%;
+    height: 82px;
+    color: darkgreen;
+}
+
+
+.link {
+    text-decoration: none;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.h11 {
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    height: 40px;
+}
+
+.logoh {
+    height: 50%;
+
+    background-color: rgb(50, 61, 52);
+}
+
+.list {
+
+    justify-content: left;
+
+}
+
+.g {
+    background-color: rgba(255, 255, 255, 0);
+    width: 40%;
+    height: 80px;
+    color: aliceblue;
+}
+
+
+
+.image {
+    position: absolute;
+}
