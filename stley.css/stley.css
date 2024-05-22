@@ -187,12 +187,20 @@ body {
 .oki {
 
     background-image: url(../img/Document_files/green.jpg);
+
     height: 100vh;
+
+}
+
+.disco_content {
+    background: url(../img/Frame.svg)no-repeat, cover, center;
+
 
 }
 
 .wrap {
     color: aliceblue;
+
 }
 
 .disco_content {
@@ -255,4 +263,42 @@ body {
 .wrap-img2 {
     top: 20%;
     left: 100px;
+}
+
+.bm {
+    background-image: url(../img/Document_files/green.jpg);
+    height: 39vh;
+
+}
+
+.h2 {
+    color: aliceblue;
+}
+
+.pp {
+    color: aliceblue;
+
+
+}
+
+.link1 {
+    color: aliceblue;
+}
+
+.njk {
+    display: inline;
+    padding: 30px;
+}
+
+.gfg {
+    background-color: #222c21;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kb {
+    color: aliceblue;
+
 }
